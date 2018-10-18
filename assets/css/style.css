@@ -1,0 +1,21 @@
+header {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+
+}
+
+body {
+    background-image: url(../images/just-waves.png);
+}
+
+.container {
+    text-align: center;
+    background-color: yellow;
+    padding: 50px;
+}
+
+#question, #time {
+    text-align: center;
+}
